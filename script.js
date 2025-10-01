@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
+    "Backend Developer, Full-Stack Developer, Frontend Developer",
     "\"Hello, World!\""
   ];
   let bioText = '';
