@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "JAQLIV";
+  const name = "Uğur Said Recep";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
+    "Backend Developer, Full-Stack Developer, Frontend Developer",
     "\"Hello, World!\""
   ];
   let bioText = '';
